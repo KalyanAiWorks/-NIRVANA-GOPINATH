@@ -446,7 +446,7 @@ export default function Home() {
                     <img
                       src="https://londonvfxbucket.s3.ap-south-1.amazonaws.com/pnc-img/gopi-profile.jpg"
                       alt="Nirvana Gopinath"
-                      style={{width:'100%', height:'100%', objectFit:'cover', borderRadius:'50%'}}
+                      style={{width:'100%', height:'100%', objectFit:'cover', objectPosition:'center center', borderRadius:'50%'}}
                     />
                   </div>
                 </RotatingBorder>
