@@ -444,9 +444,9 @@ export default function Home() {
                 <RotatingBorder size={320}>
                   <div className="relative w-full h-full">
                     <img
-                      src="https://londonvfxbucket.s3.ap-south-1.amazonaws.com/pnc-img/gopi-profile.jpg"
+                      src="https://londonvfxbucket.s3.ap-south-1.amazonaws.com/pnc-img/gopi-profile.jpg?v=2"
                       alt="Nirvana Gopinath"
-                      style={{width:'100%', height:'100%', objectFit:'cover', objectPosition:'center center', borderRadius:'50%'}}
+                      style={{width:'100%', height:'100%', objectFit:'cover', objectPosition:'top center', borderRadius:'50%'}}
                     />
                   </div>
                 </RotatingBorder>
